@@ -1,3 +1,4 @@
+![Made with Love](cover.png)
 ## Welcome to CreatorsFIU 
 > It is an initBuild project<br>
 > Web Development : Intermediate<br>
