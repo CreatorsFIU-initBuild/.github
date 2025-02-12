@@ -25,4 +25,4 @@
 |       Ivan       |       Figueroa        |
 |     Michael      |         Duran         |
 
-
+![2025](initFIU-2025.PNG)
