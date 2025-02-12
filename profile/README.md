@@ -24,5 +24,5 @@
 |    Stephanie     |      Painchault       |
 |       Ivan       |       Figueroa        |
 |     Michael      |         Duran         |
-
-![2025](initFIU-2025.PNG)
+<hr>
+<img src="initFIU-2025.PNG" width="550" height="700" alt="Thank you!">
