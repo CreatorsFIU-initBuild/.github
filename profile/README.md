@@ -8,7 +8,7 @@
 
 ### Contributors:
 </> Team Lead : Nafiul Khalid<br>
-</> Team co-lead : TBD<br>
+</> Team co-lead : Victoria Saldana<br>
 </> Team-members:
 |    First Name    |       Last Name       |
 |:----------------:|:---------------------:|
@@ -20,7 +20,6 @@
 |      Humza       |         Naeem         |
 |      Karina      | Villalobos Hernandez  |
 |     Antoine      |       Morrison        |
-|     Victoria     |       Saldana         |
 |    Stephanie     |      Painchault       |
 |       Ivan       |       Figueroa        |
 |     Michael      |         Duran         |
