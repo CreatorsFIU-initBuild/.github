@@ -18,7 +18,6 @@
 |       Jose       |         Uribe         |
 |      Humza       |         Naeem         |
 |      Karina      | Villalobos Hernandez  |
-|     Antoine      |       Morrison        |
 |    Stephanie     |      Painchault       |
 |       Ivan       |       Figueroa        |
 |     Michael      |         Duran         |
