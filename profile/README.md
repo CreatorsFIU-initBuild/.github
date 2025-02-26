@@ -14,7 +14,6 @@
 |:----------------:|:---------------------:|
 |       Tal        |         Assaf         |
 |   Luis-Angel     |        Moreno         |
-|      Julian      |         Novak         |
 |      Austin      |       Houchens        |
 |       Jose       |         Uribe         |
 |      Humza       |         Naeem         |
