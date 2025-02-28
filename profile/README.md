@@ -21,5 +21,5 @@
 |       Ivan       |       Figueroa        |
 |     Michael      |         Duran         |
 |     Alberto      |         Olivares      |
-<hr>
+
 <img src="initFIU-2025.PNG" width="550" height="700" alt="Thank you!">
