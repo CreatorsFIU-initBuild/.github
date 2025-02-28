@@ -22,4 +22,5 @@
 |     Michael      |         Duran         |
 |     Alberto      |         Olivares      |
 
+<br>
 <img src="initFIU-2025.PNG" width="550" height="700" alt="Thank you!">
