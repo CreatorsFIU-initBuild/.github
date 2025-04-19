@@ -1,4 +1,5 @@
-![Made with Love](cover.png) 
+
+![DemoDay30](https://github.com/user-attachments/assets/1d21890d-c975-49e8-bb74-a49596143967)
 ---
 ## Welcome to CreatorsFIU 
 > It is an initBuild project<br>
